@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\emanuell.rossetto\\3D Objects\\Estudo-CSharp\\aula-02\\aula-02.csproj",
+      "projectUniqueName": "C:\\Users\\emanuell.rossetto\\3D Objects\\Aulas-Csharp\\Aula-02\\aula-02.csproj",
       "projectName": "aula-02",
-      "projectPath": "C:\\Users\\emanuell.rossetto\\3D Objects\\Estudo-CSharp\\aula-02\\aula-02.csproj",
+      "projectPath": "C:\\Users\\emanuell.rossetto\\3D Objects\\Aulas-Csharp\\Aula-02\\aula-02.csproj",
       "packagesPath": "C:\\Users\\emanuell.rossetto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\emanuell.rossetto\\3D Objects\\Estudo-CSharp\\aula-02\\obj\\",
+      "outputPath": "C:\\Users\\emanuell.rossetto\\3D Objects\\Aulas-Csharp\\Aula-02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emanuell.rossetto\\AppData\\Roaming\\NuGet\\NuGet.Config"
